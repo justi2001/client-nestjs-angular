@@ -1,0 +1,5 @@
+antd version
+npm i  --save-exact antd@5.19.3        
+npm i @ant-design/nextjs-registry@1.0.0
+
+git remote set url https://gitlab.com/next-rn/next-rn.git
